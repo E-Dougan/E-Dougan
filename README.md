@@ -1,12 +1,12 @@
-Hi, I’m Efua! 
+**Hi, I’m Efua**!
 
-A Business Intelligence Specialist, with keen interest in Data Management - Lifecycle, Governance, Quality and Analytics.
+A **Business Intelligence Specialist**, with keen interest in **Data Management - Lifecycle, Governance, Quality and Analytics**.
 
-Currently learning Advanced Analytics leveraging on ML
+Currently learning **Advanced Analytics/ML** leveraging R and Python.
 
 I’m looking to collaborate on Data Science projects
 
-Let's connect via www.linkedin.com/in/efua-dougan
+Let's connect via **www.linkedin.com/in/efua-dougan**
 
 
 <!---
