@@ -2,9 +2,11 @@
 
 A **Business Intelligence Specialist**, with keen interest in **Data Management - Lifecycle, Governance, Quality and Analytics**.
 
-Currently learning **Advanced Analytics/ML** leveraging R and Python.
+Currently learning the following:
+**Advanced Analytics/ML** leveraging R (self-taught and used in Master's thesis) and Python (self taught).
+**Backend and Frontend devps** leveraging vscode (self taught) [HTML & CSS (self taught and used to build current company websites), sql (self taught and used in everyday work), postgresql(self taught) and AI to code
 
-I’m looking to collaborate on Data Science projects
+I’m looking to collaborate on Data Science and front/backend devops projects
 
 Let's connect via **www.linkedin.com/in/efua-dougan**
 
